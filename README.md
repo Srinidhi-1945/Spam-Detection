@@ -39,6 +39,8 @@ Machine Learning, React, and Flask.
 - CSV dataset for training
 - Trained ML model integrated with backend
 
----
+⚠️ Dataset files are excluded from GitHub due to size limits.
+Please download the dataset separately and place it inside the backend folder.
+
 
 
